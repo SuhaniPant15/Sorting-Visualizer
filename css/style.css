@@ -140,7 +140,10 @@ section .Complexity_Containers .Pair_Definitions p.Sub_Heading {
 }
   
 section #Info_Cont1 {
-    padding: 20% 10%;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 40% auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
   
 section #Info_Cont1 h3 {
@@ -156,7 +159,10 @@ section #array_container {
 }
   
 section #Info_Cont2 {
-    padding: 20% 10%;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 60% auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
   
 section #Info_Cont2 h3 {
